@@ -1,1 +1,0 @@
-tyroCTF{0h_5h1t_1_f0rg0t_4b0ut_gdb}
