@@ -1,0 +1,1 @@
+tyroCTF{w0w_py7h0n_c4n_4l50_b3_c0mp1l3d_x2n49dh2}
