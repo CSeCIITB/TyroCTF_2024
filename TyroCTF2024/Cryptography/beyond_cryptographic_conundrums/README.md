@@ -8,7 +8,3 @@ Part 2:
 
 Find the flags from both parts and submit in the following format:
 tyroCTF{part1_part2}
-
-### Flag - 
-
-tyroCTF{c4354r_54y5_h1_qu1t3_4_j0urn3y}
