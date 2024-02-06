@@ -6,4 +6,4 @@
 ## Solution
 - Given sslkey.log file, decrypt the https traffic using wireshark. Find the trace for secret.png file, and export it.
 
-## FLAG: tyroCTF{W1r3sh4rk_c4n_d3crypt_HTTPS_t00!}
+
