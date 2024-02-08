@@ -1,5 +1,5 @@
 m='REDACTED'
-key='QUACK'
+key='REDACTED'
 cipher=[]
 
 index=0
