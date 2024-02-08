@@ -1,4 +1,4 @@
-m='tyroCTF{h0w_s0_pr0_s44r}'
+m='REDACTED'
 key='QUACK'
 cipher=[]
 
